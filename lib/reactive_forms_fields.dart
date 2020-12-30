@@ -1,7 +1,3 @@
 library reactive_forms_fields;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'reactive_dropdown_search/reactive_dropdown_search.dart';
